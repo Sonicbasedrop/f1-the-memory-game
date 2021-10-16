@@ -25,16 +25,16 @@
 * [Credits](#Credits)
 * [Acknowledgements](#Acknowledgements)
 
-# Milestone 1
+# Milestone 2
 
 ## Purpose
 ----
-Purpose
-This Website was created for the sole purpose of completing the first Milestone
-Project for the Code Institute’s Full Stack Developer course. It was built using the
-knowledge gained from the HTML, CSS and User Centric Design modules. A full
-list of technologies used can be found in the technologies section of this
-document.
+  This memory game was created for the sole purpose of completing the Milestone 2
+  Project for the Code Institute’s Full Stack Developer course. It was built using the
+  knowledge gained from the HTML, CSS and JavaScript (User Centric Design / interactive frontend development modules). A full
+  list of technologies used can be found in the technologies section of this
+  document.
+
 
 A live version of website can be found [here](https://sonicbasedrop.github.io/ms1-core-athletics/index.html)
 
