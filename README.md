@@ -94,7 +94,7 @@ The four main colours used are shade of Red #F85E5E, shade of Blue #276dbd, Gray
 
 #### Typography
 
-The headers on all pages throughout the Website are using the Monserrat font, while the main text is using the Poppins font. Sans-serif is the fallback font in case for any reason the font isn’t being imported into the site correctly. 
+The font used throughout the game is the Roboto font, and Sans-serif is the fallback font in case for any reason the font isn’t being imported into the site correctly.
 
 #### Imagery
   * Imagery is important. Therefore, the images are chosen in order to catch the users’ attention and create an atmosphere of formula 1.
