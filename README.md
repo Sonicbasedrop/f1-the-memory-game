@@ -97,9 +97,8 @@ The four main colours used are shade of Red #F85E5E, shade of Blue #276dbd, Gray
 The headers on all pages throughout the Website are using the Monserrat font, while the main text is using the Poppins font. Sans-serif is the fallback font in case for any reason the font isn’t being imported into the site correctly. 
 
 #### Imagery
-Imagery is important. Therefore, the hero and background images are chosen in order to catch the users’ attention and create a feel good atmosphere and sense of the aspiration towards a healthy, holistic life style that CA offers its clients. 
-
-Images are provided by contributors to [Unsplash.](https://unsplash.com/) Photo credits are further detailed in the credit section.
+  * Imagery is important. Therefore, the images are chosen in order to catch the users’ attention and create an atmosphere of formula 1.
+  *  Images are provided by [Formula 1](https://www.formula1.com) and Abed Ismail, Abed is a contributor to Unsplash, check out his beutyfull images at [Unsplash](https://unsplash.com/@abedismail). Photo credits are further detailed in the credit section.
 #### Wireframes
 Home page<br>
 ![Home Page Wireframe](docs/wireframes/home-wf.png)<br> 
