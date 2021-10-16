@@ -100,17 +100,23 @@ The font used throughout the game is the Roboto font, and Sans-serif is the fall
   * Imagery is important. Therefore, the images are chosen in order to catch the users’ attention and create an atmosphere of formula 1.
   *  Images are provided by [Formula 1](https://www.formula1.com) and Abed Ismail, Abed is a contributor to Unsplash, check out his beutyfull images at [Unsplash](https://unsplash.com/@abedismail). Photo credits are further detailed in the credit section.
 #### Wireframes
-Home page<br>
-![Home Page Wireframe](docs/wireframes/home-wf.png)<br> 
-Pricing Page<br>
-![Pricing Page Wireframe](docs/wireframes/pricing-wf.png)<br>
-Contact Page<br>
-![Contact Page Wireframe](docs/wireframes/contact-wf.png)<br>
+Start page<br>
+![Start Page Wireframe](docs/wireframes/choose_level.png)<br> 
+Easy Level<br>
+![Easy Level Wireframe](docs/wireframes/easy_level.png)<br>
+Medium Level<br>
+![Medium Level Wireframe](docs/wireframes/medium_level.png)<br>
+Hard Level<br>
+![Hard Level Wireframe](docs/wireframes/hard_level.png)<br>
+End page<br>
+![End Page Wireframe](docs/wireframes/chequerd_flag.png)<br> 
 
 For full Size PDF´s of wireframes click links below.
-* ![Home Page Wireframe](docs/wireframes/home-wf.pdf)<br>
-* ![Pricing Page Wireframe](docs/wireframes/pricing-wf.pdf)<br>
-* ![Contact Page Wireframe](docs/wireframes/contact-wf.pdf)<br>
+ ![Start Page Wireframe](docs/wireframes/choose_level.pdf)<br>
+ ![Easy Level Wireframe](docs/wireframes/easy_level.pdf)<br>
+ ![Medium Level Wireframe](docs/wireframes/medium_level.pdf)<br>
+ ![Hard Level Wireframe](docs/wireframes/hard_level.pdf)<br>
+ ![End Page Wireframe](docs/wireframes/chequered_flag.pdf)<br>
 
 * ### Limitations
 Due to no JavaScript functionality, apart from Bootstraps, the contact forms will not store data or send email requests. This includes the newsletter input field.
