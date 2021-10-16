@@ -2,7 +2,8 @@
 ----
 * [Purpose](#Purpose)
 * [User Experience Design (UX)](#User-Experience-Design)
-  * [User stories](#User-Stories)
+ * [User stories](#User-stories)
+  * [External users goal](#External-users-goal])
     * [First Time Visitor Goals](#First-Time-Visitor-Goals)
     * [Returning Visitor Goals](#Returning-Visitor-Goals)
     * [Frequent Visitor Goals](#Frequent-Visitor-Goals)
