@@ -51,6 +51,12 @@ A live version of website can be found [here](https://sonicbasedrop.github.io/ms
   * The user should see the current time elapsed and moves while playing the game.
   * The user should see an image of the Yas marina formula 1 circuit of Abu Dhabi United Arab Emirates
 
+  * The user should be able to click any of the cards which are facing down to flip it over and try to find the matching pairs.
+  * The user should be able to find pairs by clicking on the cards. If the match, they stay flipped, if they don't match they will flip back.
+  * The user should not be able to click on a new card until the two already flipped cards which are not matching and not flipped back.
+  * The user should be receiving a message at completion of game.
+
+
 
 #### Structure
 All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to allow users to easily navigate the site. 
