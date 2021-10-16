@@ -46,25 +46,11 @@ A live version of website can be found [here](https://sonicbasedrop.github.io/ms
 ----
 
 ### User Stories
-#### First Time Visitor Goals
- * As a First Time user, I want to easily understand the main purpose of
-the site and learn more about CA and its services.
-* As a First Time user, I want to be able to easily navigate throughout
-the site to find content.
-* As a First Time user, I want to view the website and content clearly on
-mobile devices and tablets.
-* As a First Time user, I want to find ways to follow Core Athletics on
-different social media platforms.
-* As a First Time use, I want to find contact information to the fitness center.
+  * The user will se a popup with information on how to play the game. 
+  * The user will be able to choose on of three levels  of difficulty before the game starts.
+  * The user should see the current time elapsed and moves while playing the game.
+  * The user should see an image of the Yas marina formula 1 circuit of Abu Dhabi United Arab Emirates
 
-#### Returning Visitor Goals
-* As a Returning user, I want to be able to contact the fitness center in order to enquire about personal trainer, rehab, bootcamp and other services. 
-* As a Returning user, I want to get information about pricing of the fitness center´s various services.
-
-#### Frequent Visitor Goals
-*	As a Frequent user, I want to get information about new fitness classes, i.e. bootcamp activities etc. 
-* As a Frequent user, I want to sign up to the Newsletter so that I am emailed about any major updates and/or changes to the website or the fitness centre.
-*	As a Frequent user, I want to get informed of any new offers by the fitness centre.
 
 #### Structure
 All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to allow users to easily navigate the site. 
