@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Roboto&family=Rubik+Beastly&display=swap');
+
+*,
+*::after
+*::before {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../images/background.png");
+    color: #3c5aa6;
+}
+
+/* Header */
+
+.site-title {
+    margin: 60px 0 40px;
+    color: #3c5aa6;
+    text-align: center;
+    letter-spacing: 6px;
+    font-family: "Roboto" sans-serif;
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+}
+
+.tag-line {
+    margin: 20px;
+    text-align: center;
+    color: #3c5aa6;
+    font-family: "Roboto" sans-serif;
+    
+}
