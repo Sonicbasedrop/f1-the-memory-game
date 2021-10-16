@@ -36,7 +36,7 @@
 
 A live version of website can be found [here](https://sonicbasedrop.github.io/ms1-core-athletics/index.html)
 
-## Core Athletics (CA) Responsive Website
+## Formula 1 - the Memory Game
 ![Mock Up](assets/images/readme-images/mock-up.png)
 
 ***
