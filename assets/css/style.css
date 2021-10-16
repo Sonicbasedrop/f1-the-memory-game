@@ -34,3 +34,69 @@ body {
     font-family: "Roboto" sans-serif;
     
 }
+
+/* game board and cards */
+
+.board {
+    display: flex;
+    margin: auto;
+    max-width: 1110px;
+    flex-wrap: wrap;
+
+}
+
+.easy,
+.medium {
+    width: 740px;
+}
+
+.hard {
+    max-width: 1110px;
+}
+
+.card {
+    position: relative;
+    float: left;
+    margin: 5px;
+    width: 175px;
+    height: 175px;
+    text-align: center;
+}
+
+.card-back,
+.card-front {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: -webkit-transform 0.3s;
+    transition: transform 0.3s;
+   -webkit-backface-visibility: hidden;
+   backface-visibility: hidden;
+
+}
+
+.card-front {
+
+    border: 8px solid #000;
+    background-color: rgba(39, 109, 189, 0.5);
+}
+
+.card-back {
+    border: 8px solid #000;
+    background-color: #fff;
+    -webkit-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+}
+
+.card-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    margin: auto;
+    padding: 5%;
+    width: 100%;
+    height: 100%;
+}
