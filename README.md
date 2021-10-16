@@ -67,11 +67,9 @@ A live version of website can be found [here](https://sonicbasedrop.github.io/ms
 * Custom CSS will be used to make the game responsive by the use of media queries
 
 
-All pages will be responsive and the layouts will change dependent on screen size. This is to ensure content flow is appealing, images are displayed properly and that the content is not shrunk side by side, so small that it is unreadable. The purpose of this is to fulfill user story:
+* All pages will be responsive and the layouts will change dependent on screen size. This is to ensure content flow is appealing, images are displayed properly and that the content is not shrunk side by side, so small that it is unreadable. The purpose of this is to fulfill user story:
 
-* As a First Time user, I want to view the website and content clearly on my mobile device.
-
-All pages will contain a Footer section with time elapsed and amout of moves made by the user. The aim of the Footer elements is to fulfill user stories:
+* All pages will contain a Footer section with time elapsed and amout of moves made by the user. The aim of the Footer elements is to fulfill user stories:
 
 
 ### Design
