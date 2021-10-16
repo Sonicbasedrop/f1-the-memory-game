@@ -115,9 +115,34 @@ body {
 
  /* Footer */
 
- footer {
-     display: flex;
-     flex-wrap: wrap;
-     width: 100%;
-     justify-content: center;
- }
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+.counter,
+.timer {
+    width: 33%;
+    text-align: center;
+}
+
+.info {
+    color: rgb(248, 94, 94);
+    letter-spacing: 4px;
+    font-family: "Roboto" sans-serif;
+    text-align: center;
+}
+
+.time {
+    color: rgb(248, 94, 94);
+    letter-spacing: 4px;
+    font-family: "Roboto" sans-serif;
+    text-align: center;
+}
+
+.data {
+    letter-spacing: normal;
+    font-family: "Roboto" sans-serif;
+}
