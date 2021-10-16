@@ -56,36 +56,23 @@ A live version of website can be found [here](https://sonicbasedrop.github.io/ms
 
 
 
-#### Structure
-All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to allow users to easily navigate the site. 
+#### Structure 
 
-* As a First Time user, I want to be able to easily navigate throughout the site to find content.
+* Header will be vissible at all times, during and after game.
 
-The Home Page will contain appealing visuals and brief information of CA. The purpose of this is to fulfill user story:
+* Background image will be vissable at all times, during and after game.
 
-*	As a First Time user, I want to easily understand the main purpose of the site and learn more about CA.
+* The start page will include a pop-up with explanation on how to play the game, and three buttons to choose difficulty level of game.
 
-Custom CSS and/or Bootstrap will be used to make the Website responsive by the use of media queries and/or the Bootstrap Grid system.
+* Custom CSS will be used to make the game responsive by the use of media queries
+
 
 All pages will be responsive and the layouts will change dependent on screen size. This is to ensure content flow is appealing, images are displayed properly and that the content is not shrunk side by side, so small that it is unreadable. The purpose of this is to fulfill user story:
 
 * As a First Time user, I want to view the website and content clearly on my mobile device.
 
-All pages will contain a Footer Element with contact information, a field to sign up for newsletters, and social media. The icons used will be from font-awesome. These are referenced below in the Frameworks-Libraries-and-Programs-Used section of this document. The aim of the Footer elements is to fulfill user stories:
+All pages will contain a Footer section with time elapsed and amout of moves made by the user. The aim of the Footer elements is to fulfill user stories:
 
-*	As a First Time user, I want to find ways to follow CA on different social media platforms.
-*	As a First Time user, I want to know where CA is located
-*	As a Returning user, I want to contact CA so I can request more information
-
-
-The Pricing Page will contain prices of CA’s various services. The purpose of this is to fulfill user stories:
-*	As a First Time user, I want to get an overview of the price of CA’s services. 
-*	As a Frequent user, I want to check for discounts and VIP offers. 
-
-The Contact Page will contain a form that can be used to contact CA through the website. The purpose of this Page is to fulfill user stories:
-
-*	As a Returning user, I want to contact CA so that I can request more information.
-*	As a Frequent user, I want to sign up to the Newsletter so that I am emailed about any major updates and/or changes to the website or CA.
 
 ### Design
 
