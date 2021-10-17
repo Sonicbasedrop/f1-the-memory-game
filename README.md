@@ -75,7 +75,7 @@ A live version of website can be found [here](https://sonicbasedrop.github.io/ms
 ### Design
 
 #### Colour Scheme
-The four main colours used are shade of Red rgb(248, 94, 94) Two shade of Blue rgba(39, 109, 189, 0.5), #3c5aa6 and White #fff. 
+The main colours used are shade of Red rgb(248, 94, 94) Two shade of Blue rgba(39, 109, 189, 0.5), #3c5aa6 , and shade of gray #555 and White #fff. 
 
 #### Typography
 
