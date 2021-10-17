@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Roboto:wght@400;900&family=Rubik+Beastly&family=Rubik:wght@300;400&display=swap');
 
 *,
-*::after *::before {
+*::after,
+ *::before {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
@@ -9,6 +10,8 @@
 body {
     background-image: url("../images/background.png");
     color: #3c5aa6;
+    font-family: 'Rubik', Montserrat, sans-serif;;
+    ;
 }
 
 /* Header */
@@ -25,6 +28,7 @@ body {
     text-align: center;
     font-size: 50px;
 }
+
 
 .tag-line {
     margin: 20px;
@@ -228,12 +232,12 @@ footer {
 
 .congrats {
     font: 40px/60px 'Rubik', Montserrat, sans-serif;
-  color: #e63d3d;
+  color: #555;
   margin: 10px;
   text-align: center;
   
   letter-spacing: 6px;
-  -webkit-text-stroke: 2px #e63d3d;
+  -webkit-text-stroke: 2px #555;
   width: 100%;
 }
 
