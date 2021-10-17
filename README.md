@@ -79,7 +79,7 @@ The four main colours used are shade of Red rgb(248, 94, 94) Two shade of Blue r
 
 #### Typography
 
-The font used throughout the game is the Roboto font, and Sans-serif is the fallback font in case for any reason the font isn’t being imported into the site correctly.
+The font used throughout the game is the Rubik font, Montserrat and Sans-serif is the fallback font in case for any reason the font isn’t being imported into the site correctly.
 
 #### Imagery
   * Imagery is important. Therefore, the images are chosen in order to catch the users’ attention and create an atmosphere of formula 1.
