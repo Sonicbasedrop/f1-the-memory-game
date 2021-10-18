@@ -119,8 +119,19 @@ const checkMatch = card => {
     click2 = card;
     $(card.id).addClass("flipped");
 
+    // updating the moves made by player during the game
+     moves++;
+    $("#moves").text(moves);
 
+    checkStars();
+  } else return;
+  if (click1.name === click2.name) {
+    foundMatch();
+
+  }else {
+    hideCards();
   }
-}
+
+};
 
 })();
