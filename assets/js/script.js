@@ -85,7 +85,27 @@
       array[randomIndex] = temporaryValue;
    }
     return array;
-  }
+  };
+
+  const displayCards = cardArray => {
+    cardArray.forEach(function(card) {
+      // add cards to game board
+      $("#game-board").append(card.html);
+
+      // add click listeners
+      $(card.id).click(function() {
+        // start timer on first click
+        if (!gameStarted) {
+          // start timer
+          gameTimer();
+          gameStarted = true;
+        }
+
+        // check for match when clicked
+        checkMatch(card);
+      });
+    });
+  };
 
 
 })();
