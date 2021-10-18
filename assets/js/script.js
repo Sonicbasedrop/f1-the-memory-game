@@ -233,6 +233,32 @@ $("#startModal #close-start, #overlay").click(function() {
   $("#startModal").hide();
 });
 
+$(".modal").click(function(event) {
+  $(".modal").hide();
+});
+
+$(".modal.content").click(function(event) {
+  event.stopPropagation();
+});
+
+// modal levels
+$("#easy-level").click(function() {
+  startGame(cardData, "easy");
+});
+
+$("#medium-level").click(function() {
+  startGame(cardData, "medium");
+});
+
+$("#hard-level").click(function() {
+  startGame(cardData, "hard");
+});
+
+$("#restart").click(function() {
+  $("#winModal").hide();
+  $("#startModal").show();
+});
+
 
 
 
