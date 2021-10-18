@@ -10,8 +10,8 @@
 body {
     background-image: url("../images/background.png");
     color: #3c5aa6;
-    font-family: 'Rubik', Montserrat, sans-serif;;
-    ;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
+    
 }
 
 /* Header */
@@ -21,7 +21,7 @@ body {
     color: #3c5aa6;
     text-align: center;
     letter-spacing: 6px;
-    font-family: 'Rubik', Montserrat, sans-serif;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
 }
 
 .heading {
@@ -34,7 +34,7 @@ body {
     margin: 20px;
     text-align: center;
     color: #3c5aa6;
-    font-family: 'Rubik', Montserrat, sans-serif;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
 
 }
 
@@ -134,20 +134,20 @@ footer {
 .info {
     color: rgb(238, 17, 9);
     letter-spacing: 6px;
-    font-family: 'Rubik', Montserrat, sans-serif;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
     text-align: center;
 }
 
 .time {
     color: #555;
     letter-spacing: 6px;
-    font-family: 'Rubik', Montserrat, sans-serif;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
     text-align: center;
 }
 
 .data {
     letter-spacing: normal;
-    font-family: 'Rubik', Montserrat, sans-serif;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
 }
 
 /* Modal */
@@ -171,7 +171,7 @@ footer {
 
 .close {
     color: #aaa;
-    font-family: 'Rubik', Montserrat, sans-serif;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
     width: 100%;
     text-align: right;
 }
@@ -231,7 +231,7 @@ footer {
 }
 
 .congrats {
-    font: 40px/60px 'Rubik', Montserrat, sans-serif;
+    font: 40px/60px 'Rubik', 'Montserrat', sans-serif;
   color: #555;
   margin: 10px;
   text-align: center;
@@ -242,7 +242,7 @@ footer {
 }
 
 .win-text {
-    font: 'Rubik', Montserrat, sans-serif;
+    font: 'Rubik', 'Montserrat', sans-serif;
     text-align: center;
     padding-top: 20%;
 }
@@ -254,7 +254,7 @@ button {
     border-radius: 10px;
     color: #fff;
     display: block;
-    font: bold 24px/24px 'Rubik', Montserrat, sans-serif;
+    font: bold 24px/24px 'Rubik', 'Montserrat', sans-serif;
     margin: auto;
     padding: 10px 20px;
     text-decoration: none;
@@ -275,7 +275,7 @@ button {
     text-align: center;
   }
   .choose {
-    font-family: 'Rubik', Montserrat, sans-serif;
+    font-family: 'Rubik', 'Montserrat', sans-serif;
     font-size: 35px;
     color: #555;
     margin: 10px 0 40px;
