@@ -96,12 +96,12 @@ Hard Level<br>
 End page<br>
 ![End Page Wireframe](docs/wireframes/chequerd_flag.png)<br> 
 
-For full Size PDF´s of wireframes click links below.
- ![Start Page Wireframe](docs/wireframes/choose_level.pdf)<br>
- ![Easy Level Wireframe](docs/wireframes/easy_level.pdf)<br>
- ![Medium Level Wireframe](docs/wireframes/medium_level.pdf)<br>
- ![Hard Level Wireframe](docs/wireframes/hard_level.pdf)<br>
- ![End Page Wireframe](docs/wireframes/chequered_flag.pdf)<br>
+For full Size PDF´s of wireframes click links below.<br>
+ [Start Page Wireframe](docs/wireframes/choose_level.pdf)<br>
+ [Easy Level Wireframe](docs/wireframes/easy_level.pdf)<br>
+ [Medium Level Wireframe](docs/wireframes/medium_level.pdf)<br>
+ [Hard Level Wireframe](docs/wireframes/hard_level.pdf)<br>
+ [End Page Wireframe](docs/wireframes/chequered_flag.pdf)<br>
 
 * ### Limitations
 Due to no JavaScript functionality, apart from Bootstraps, the contact forms will not store data or send email requests. This includes the newsletter input field.
