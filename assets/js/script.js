@@ -179,5 +179,25 @@ const checkStars = () => {
  }
 };
 
+const gameTimer = () => {
+  let startTime = new Date().getTime();
+
+  // update timer every second
+  timer = setInterval(function() {
+    var now = new Date().getTime();
+
+    // Find the time elapsed between now and start
+    var elapsed = now - startTime;
+
+    // Calculate min and sec
+    let minutes = Math.floor((elapsed % (1000 * 60 * 60)
+    ) / (1000 * 60));
+    let seconds = Math.floor((elapsed % (1000 * 60)) /
+    1000);
+  })
+}
+
+
+
 
 })();
