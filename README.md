@@ -103,9 +103,7 @@ For full Size PDF´s of wireframes click links below.<br>
  [Hard Level Wireframe](docs/wireframes/hard_level.pdf)<br>
  [End Page Wireframe](docs/wireframes/chequered_flag.pdf)<br>
 
-* ### Limitations
-Due to no JavaScript functionality, apart from Bootstraps, the contact forms will not store data or send email requests. This includes the newsletter input field.
----
+
 # Features
 ---
 ## Existing Features
