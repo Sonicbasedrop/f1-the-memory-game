@@ -70,14 +70,21 @@
 
   const shuffle = array => {
     let currentIndex = array.length,
-    temporaryvalue,
+    temporaryValue,
     randomIndex;
 
     while (0 !== currentIndex) {
+      // choose an element at random
       randomIndex = Math.floor(Math.random() *
       currentIndex);
       currentIndex -= 1;
-    }
+
+      // switch current and random element
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
+   }
+    return array;
   }
 
 
