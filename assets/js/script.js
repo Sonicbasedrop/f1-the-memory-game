@@ -12,8 +12,10 @@
       timer,
       twoStar,
       oneStar;
-      class Card {
-        constructor(card, num) {
+
+            //creating and initializing an object instance for the Card class.  
+    class Card {
+          constructor(card, num) {
           let cardID = card.id + "-" + num;
           this.id = "#" + card.id + "-" + num;
           this.image = card.image;
@@ -28,4 +30,7 @@
           </div>`;
         }
       }
+
+
+    })();
   
