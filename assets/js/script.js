@@ -195,7 +195,7 @@ const gameTimer = () => {
     let seconds = Math.floor((elapsed % (1000 * 60)) /
     1000);
 
-    // Add starting 0 if seconds < 10
+    // add starting 0 if seconds < 10
     if (seconds < 10) {
       seconds = "0" + seconds;
     }
@@ -205,7 +205,7 @@ const gameTimer = () => {
   }, 750);
 };
 
-   // Add stars to game screen and modal
+   // add stars to game screen and modal
 const displayStars = num => {
   const starImage = '<img src="assets/images/rating-star.png">';
   $(".stars").empty();
@@ -214,9 +214,23 @@ const displayStars = num => {
   }
 };
 
-// Open start modal on load
+// open start modal on load
 $(window).on("load", function() {
   $("#startModal").show();
+});
+
+// open chequerd flag modal when game is won
+$("#openModal").click(function() {
+  $("#winModal").show();
+});
+
+// close modals when player click outside modal
+$("#winModal #close-win, #overlay").click(function() {
+  $("#winModal").hide();
+});
+
+$("#startModal #close-start, #overlay").click(function() {
+  $("#startModal").hide();
 });
 
 
