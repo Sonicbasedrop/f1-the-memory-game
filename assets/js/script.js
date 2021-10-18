@@ -147,6 +147,17 @@ const foundMatch = () => {
   click2 = {};
 };
 
+const hideCards = () => {
+  // hide cards
+  setTimeout(function() {
+    $(click1.id).removeClass("flipped");
+    $(click2.id).removeClass("flipped");
+    // reset click object
+    click1 = {};
+    click2 = {};
+  }, 600);
+};
+
 
 
 })();
