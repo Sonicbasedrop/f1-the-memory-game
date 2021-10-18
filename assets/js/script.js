@@ -167,6 +167,17 @@ const gameOver = () => {
   }, 500);
 };
 
+const checkStars = () => {
+  let currentStars;
+  if (moves >= oneStar) {
+    currentStars = 1;
+  } else if (moves >= twoStar) {
+    currentStars = 2;
+ } else currentStars = 3;
+ if (numStars !== currentStars) {
+   displayStars(currentStars);
+ }
+};
 
 
 })();
