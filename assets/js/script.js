@@ -194,8 +194,30 @@ const gameTimer = () => {
     ) / (1000 * 60));
     let seconds = Math.floor((elapsed % (1000 * 60)) /
     1000);
-  })
-}
+
+    // Add starting 0 if seconds < 10
+    if (seconds < 10) {
+      seconds = "0" + seconds;
+    }
+    let currenTime = minutes + ":" + seconds;
+
+    $(".clock").text(currentTime);
+  }, 750);
+};
+
+   // Add stars to game screen and modal
+const displayStars = num => {
+  const starImage = '<img src="assets/images/rating-star.png">';
+  $(".stars").empty();
+  for (let i = 0; i < num; i++) {
+    $(".stars").append(starImage);
+  }
+};
+
+// Open start modal on load
+$(window).on("load", function() {
+  $("#startModal").show();
+});
 
 
 
