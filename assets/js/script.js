@@ -131,7 +131,17 @@ const checkMatch = card => {
   }else {
     hideCards();
   }
-
 };
+
+const foundMatch = () => {
+  matches++;
+  if (matches === pairs) {
+    gameOver();
+  }
+
+  
+}
+
+
 
 })();
