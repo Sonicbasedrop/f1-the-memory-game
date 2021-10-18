@@ -158,6 +158,15 @@ const hideCards = () => {
   }, 600);
 };
 
+const gameOver = () => {
+  clearInterval(timer);
+
+  //pause before showing chequred flag modal
+  setTimeout(function() {
+    $("#winModal").show();
+  }, 500);
+};
+
 
 
 })();
