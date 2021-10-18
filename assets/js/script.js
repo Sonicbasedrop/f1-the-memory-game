@@ -30,6 +30,15 @@
           </div>`;
         }
       }
+          // Constant levels
+      const setLevel = level => {
+        $("#startModal").hide();
+        pairs = gameLevels[level].pairs;
+        twoStar = gameLevels[level].twoStar;
+        oneStar = gameLevels[level].oneStar;
+        $("#game-board").removeClass("easy medium hard");
+        $("#game-board").addClass(gameLevels[level].class);
+      };
 
 
     })();
