@@ -138,9 +138,14 @@ const foundMatch = () => {
   if (matches === pairs) {
     gameOver();
   }
+  // Unbind click functions and reset click objects
+  $(click1.id).unbind("click");
+  $(click2.id).unbind("click");
 
-  
-}
+  // reset click objects
+  click1 = {};
+  click2 = {};
+};
 
 
 
