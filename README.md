@@ -165,9 +165,6 @@ For full Size PDF´s of wireframes click links below.<br>
 
   * The live Project can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
 
-#### Out of Scope
-  * Testing form validation for phone number is out of scope. No regexp has been implemented. 
-
 #### Test Results
   ![Test Results](assets/images/readme-images/test-result.png)
 
