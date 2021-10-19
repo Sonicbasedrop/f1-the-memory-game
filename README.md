@@ -117,9 +117,13 @@ For full Size PDF´s of wireframes click links below.<br>
   # Technologies
   ---
   ###	HTML
-  * This project uses HTML as the main language used to complete the structure of the Website.
+  * This project uses HTML as the main language used to complete the structure of the game.
   ### CSS 
-  * This project uses custom written CSS to style the Website.  
+  * This project uses custom written CSS to style the game.  
+
+  ### [jQuery](https://jquery.com)
+   * jQuery library was used to simplify HTML DOM tree traversal and manipulation
+
  ### [Google Fonts ](https://fonts.google.com/)   
    *  Google fonts are used throughout the project to import the Montserrat and Poppins fonts.
 ### [Gitpd](https://www.gitpod.io)
