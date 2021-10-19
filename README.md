@@ -34,7 +34,7 @@
   document.
 
 
-A live version of website can be found [here](https://sonicbasedrop.github.io/ms1-core-athletics/index.html)
+A live version of game can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
 
 ## Formula 1 - the Memory Game
 ![Mock Up](assets/images/readme-images/mock-up.png)
@@ -149,7 +149,7 @@ For full Size PDF´s of wireframes click links below.<br>
 ### Test Strategy
 #### Summary
 
-  * Testing is required on Milestone Project 1 – Core Athletics Responsive Website.
+  * Testing is required on Milestone Project 2 – Formula 1 - the Memory Game.
 
   * As this project is static and contains no back-end functionality, the testing performed will be on the visual effects and layout of the Website. Testing to be done on at least three    web browsers and all screen sizes.
 
