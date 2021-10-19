@@ -120,11 +120,6 @@ For full Size PDF´s of wireframes click links below.<br>
   * This project uses HTML as the main language used to complete the structure of the Website.
   ### CSS 
   * This project uses custom written CSS to style the Website.  
-  ### [Bootstrap](https://getbootstrap.com/)
-  * The Bootstrap framework is used throughout this website for layouts and styling. 
-  * Bootstrap has also been used to create cards on conatct.html and the footer.
- ### [Fontawsome](https://fontawesome.com/)
-  *  Fontawesome Icons are used for the Social media links contained in the Footer section of the website.
  ### [Google Fonts ](https://fonts.google.com/)   
    *  Google fonts are used throughout the project to import the Montserrat and Poppins fonts.
 ### [Gitpd](https://www.gitpod.io)
