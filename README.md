@@ -168,8 +168,11 @@ For full Size PDF´s of wireframes click links below.<br>
 #### Test Results
   ![Test Results](assets/images/readme-images/test-result.png)
 
-   * All Pages were run through the [W3C HTML Validator](https://validator.w3.org/) Validator and showed no errors.
-     CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) and showed no errors
+   * All Pages were run through the [W3C HTML Validator](https://validator.w3.org/nu/#textarea) Validator and showed no errors.<br>
+   ![W3C HTML Validator](docs/validator_w3/index_html_validator.png) <br> 
+   * CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) and showed no errors.<br>
+   ![W3C CSS Validator](docs/validator_w3/style_css_validator.png)<br>
+
 
    * As a First Time user, I want to easily understand the main purpose of the site and learn more about CA. - Testing was performed to ensure CA information was displayed on the Home Page.
 
