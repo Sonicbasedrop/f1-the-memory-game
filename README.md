@@ -163,10 +163,8 @@ For full Size PDF´s of wireframes click links below.<br>
 
   * Validation of inclusion for all features included in the Structure of the Website / Wireframes must be performed.
 
-  * The live Project can be found [here](https://sonicbasedrop.github.io/ms1-core-athletics/index.html)
+  * The live Project can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
 
-  #### High Level Test Cases
-  ![High Level Test](assets/images/readme-images/high-level-test.png)
 #### Out of Scope
   * Testing form validation for phone number is out of scope. No regexp has been implemented. 
 
