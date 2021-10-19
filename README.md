@@ -189,14 +189,6 @@ For full Size PDF´s of wireframes click links below.<br>
    * As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes. - Testing was to performed to validate newsletter field in footer is functioning. 
 
    ### Issues and Resolutions to issues found during testing
-      * Dragging down website to 400px made the Contact form on contact.html become slightly off-centered (slightly to the right). 
-      working flat out to resolve issue, 3h to project submition.<br>
-
-      * had a issue with footer not stycking to bottom of page, resolved the problem with a short-page class in style.css
-
-      * found a issue with contact form not aligning as expected in contact.html page working to resolve issue.
-
-
 # Deployment
 ---
 ### Project Creation <br>
@@ -209,13 +201,13 @@ For full Size PDF´s of wireframes click links below.<br>
                * git push - This command is used to push all committed changes to the GitHub repository.
 
 ## Using Github Pages <br>
-1.	Navigate to the [GitHub Repository:](https://sonicbasedrop.github.io/f1-the-memory-game/)
-2.	Click my current repository. 
-3.	Click on the 'Settings' Tab.
-4.	Click on the Git Hub Pages Heading.
-5.  Select 'Master Branch' as the source.
-6.  Click the Save button.
-7.  Click on the link to go to the live deployed page.
+* Navigate to the [GitHub Repository:](https://sonicbasedrop.github.io/f1-the-memory-game/)
+  * Click my current repository. 
+    * Click on the 'Settings' Tab.
+      * Click on the Git Hub Pages Heading.
+        * Select 'Master Branch' as the source.
+          * Click the Save button.
+            * Click on the link to go to the live deployed page.
   ---
   # Credits
   ---
