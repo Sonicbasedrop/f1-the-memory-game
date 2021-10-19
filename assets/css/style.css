@@ -258,9 +258,9 @@ footer {
 }
 
 button {
-  background: #2d56bd;
+  background: #3f6fe7;
   border-radius: 10px;
-  color: #fff;
+  color: #fda40d;
   display: block;
   font: bold 18px/18px 'Rubik', 'Montserrat', sans-serif;
   margin: auto;
@@ -269,13 +269,13 @@ button {
 }
 
 button:hover {
-  background: rgb(248, 94, 94);
+  background: #eee;
   text-decoration: none;
 }
 
 .level-button {
   width: 150px;
-  background-color: #2d56bd;
+  background-color: #3f6fe7;
 }
 
 .site-title.start {
