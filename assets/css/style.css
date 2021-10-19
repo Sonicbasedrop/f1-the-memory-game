@@ -478,3 +478,36 @@ button:hover {
     font-size: 28px;
   }
 }
+
+@media (max-width: 320px) {
+  .site-title {
+    font-size: 55px;
+    margin: 25px 0 10px;
+    text-align: center;
+  }
+
+  .tag-line {
+    font-size: 18px;
+    margin: 15px;
+  }
+
+  .card {
+    width: 75px;
+    height: 75px;
+  }
+
+  .easy,
+  .medium {
+    max-width: 340px;
+  }
+
+  .counter,
+  .timer {
+    flex-basis: 100%;
+  }
+
+  .data,
+  .info {
+    font-size: 28px;
+  }
+}
