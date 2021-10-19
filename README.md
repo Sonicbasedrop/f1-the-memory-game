@@ -37,7 +37,7 @@
 A live version of game can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
 
 ## Formula 1 - the Memory Game
-![Mock Up](assets/images/readme-images/mock-up.png)
+![Mock Up](assets/images/mock_up_f1.png)
 
 ***
 ## User Experience Design
