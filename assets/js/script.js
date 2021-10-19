@@ -94,7 +94,7 @@
       $("#game-board").append(card.html);
 
       // add click listeners
-      $(card.id).click(function () {
+      $(card.id).click(function() {
 
         // start timer on first click
         if (!gameStarted) {
@@ -162,7 +162,7 @@
     clearInterval(timer);
 
     //pause before showing chequred flag modal
-    setTimeout(function () {
+    setTimeout(function() {
       $("#winModal").show();
     }, 500);
   };
@@ -183,7 +183,7 @@
     let startTime = new Date().getTime();
 
     // update timer every second
-    timer = setInterval(function () {
+    timer = setInterval(function() {
       var now = new Date().getTime();
 
       // Find the time elapsed between now and start
@@ -213,21 +213,21 @@
   };
 
   // open start modal on load
-  $(window).on("load", function () {
+  $(window).on("load", function() {
     $("#startModal").show();
   });
 
   // open chequerd flag modal when game is won
-  $("#openModal").click(function () {
+  $("#openModal").click(function() {
     $("#winModal").show();
   });
 
   // close modals when player click outside modal
-  $("#winModal #close-win, #overlay").click(function () {
+  $("#winModal #close-win, #overlay").click(function() {
     $("#winModal").hide();
   });
 
-  $("#startModal #close-start, #overlay").click(function () {
+  $("#startModal #close-start, #overlay").click(function() {
     $("#startModal").hide();
   });
 
@@ -240,20 +240,20 @@
   });
 
   // modal levels
-  $("#easy-level").click(function () {
+  $("#easy-level").click(function() {
     startGame(cardData, "easy");
   });
 
-  $("#medium-level").click(function () {
+  $("#medium-level").click(function() {
     startGame(cardData, "medium");
   });
 
-  $("#hard-level").click(function () {
+  $("#hard-level").click(function() {
     startGame(cardData, "hard");
   });
 
   // game restart
-  $("#restart").click(function () {
+  $("#restart").click(function() {
     $("#winModal").hide();
     $("#startModal").show();
   });
@@ -276,6 +276,5 @@
     shuffle(cardArray);
     displayCards(cardArray);
     displayStars(3);
-
   };
 })();
