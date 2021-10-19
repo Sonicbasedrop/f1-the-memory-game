@@ -71,10 +71,9 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
 
 * All pages will contain a Footer section with time elapsed and amout of moves made by the user. The aim of the Footer elements is to fulfill user stories.
 
-* How to play the game: you complete the game by matching all driver pairs. You do that by clicking on the cards. If they match they stay flipped, if they don´t match they will flipp back to the start position were you will see the back of the card. The "back face" of the card is the Formula 1 logo.
-
-
-### Design
+* HOW TO PLAY THIS GAME: you complete the game by matching the cards. You do that by clicking on the cards. If they match they stay flipped, if they don't match they will flipp back 
+to the starting position.
+## Design
 
 #### Colour Scheme
 The main colours used are shade of Red rgb(248, 94, 94) Two shade of Blue rgba(39, 109, 189, 0.5), #2d56bd,shade of gray #555, shade of orange #fda40d and White #fff. 
