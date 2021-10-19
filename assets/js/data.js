@@ -1,3 +1,4 @@
+// all game cards are contained in this file
 const cardData = [
     {
       name: "Antonio",
