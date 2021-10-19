@@ -107,12 +107,12 @@ For full Size PDF´s of wireframes click links below.<br>
 # Features
 ---
 ## Existing Features
-  * 	Newsletter input field on all pages. This allows users to sign up for CA’s latest updates.  
-  * 	Bootstrap cards with information about CA services, with sign-up bottons.
-  *  On contact page – contact form, for users to be able to get in touch with CA.
+  * Three difficulty levels to choose from.
+  * Time elapsed while playing the game, and a moves counter so that the playe knows how many moves took to complete the game.
+  * A restart game button when game is completed.
 ## Features Left to Implement
-  * 	A Bootstrap calendar, in order for users to be kept up to date and schedule participation in C | A activities and fitness classes.
-  *   In order to implement the calendar, sign-up and logins would have to be added, along with necessary backend resources.
+  * Matching the drivers with there teammates and match drivers with there race helmets.
+  * A "quit button" incase a the player want quit while playing the game
   ---
   # Technologies
   ---
