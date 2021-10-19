@@ -75,7 +75,7 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
 ### Design
 
 #### Colour Scheme
-The main colours used are shade of Red rgb(248, 94, 94) Two shade of Blue rgba(39, 109, 189, 0.5), #2d56bd,shade of gray #555 and White #fff. 
+The main colours used are shade of Red rgb(248, 94, 94) Two shade of Blue rgba(39, 109, 189, 0.5), #2d56bd,shade of gray #555, shade of orange #fda40d and White #fff. 
 
 #### Typography
 
@@ -106,11 +106,11 @@ For full Size PDF´s of wireframes click links below.<br>
 
 # Features
 ---
-## Existing Features
+### Existing Features
   * Three difficulty levels to choose from.
   * Time elapsed while playing the game, and a moves counter so that the playe knows how many moves took to complete the game.
   * A restart game button when game is completed.
-## Features Left to Implement
+### Features Left to Implement
   * Matching the drivers with there teammates and match drivers with there race helmets.
   * A "quit button" incase a the player want quit while playing the game
   ---
