@@ -198,16 +198,16 @@ For full Size PDF´s of wireframes click links below.<br>
 # Deployment
 ---
 ### Project Creation <br>
-  * The project was started by me navigating GitHub.com and then I clicked on my repositories. I then clicked on botton for [new repository.](https://github.com/new) <br>
-  * After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (ms1-core-athletics). <br>
-  *  Thereafter I gave the website a description (A responsive website for my MS1). I then checked ‘Public’-botton. I added the README.md file and .gitignore. 
-  * Opening a the terminal in Gitpod, I then added my asset folders, CSS folder etc. The following commands were used throughout the project:
+  * The project was started by me navigating GitHub.com and then i clicked on my repositories. I then clicked on botton for [new repository.](https://github.com/new) <br>
+  * After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (f1-the-memory-game). <br>
+  *  Thereafter I gave the website a description (A JavaScript memory game for my Milestone 2 project). I then checked ‘Public’-botton. I added the README.md file and .gitignore. 
+  * Opening a the terminal in Gitpod, I then added my asset folders, CSS folder Images folder Js folder etc etc. The following commands were used throughout the project:
 	* git add filename - This command was used to add files to the staging area before committing.
   * git commit -m commit message explaining the updates - This command was used to commit changes to the local repository.
   * git push - This command is used to push all committed changes to the GitHub repository.
 
 ## Using Github Pages <br>
-  1.	Navigate to the [GitHub Repository:](https://github.com/Sonicbasedrop/ms1-core-athletics)
+  1.	Navigate to the [GitHub Repository:](https://sonicbasedrop.github.io/f1-the-memory-game/)
   2.	Click my current repository. 
   3.	Click on the 'Settings' Tab.
   4.	Click on the Git Hub Pages Heading.
@@ -222,16 +222,14 @@ For full Size PDF´s of wireframes click links below.<br>
   * Cards in contact.html taken from [Bootstrap](https://getbootstrap.com/)<br>
 
   ### Content
-  * The content of this software was created by Ivan Ulysses based on research discussion with Stina Nilsson, EGS/T.<br>
+  * The content of this software was created by Ivan Ulysses based on research done troughout the duration of this course.<br>
 
   ### Media
-  * The photos used on the website were downloaded from contributors to unsplash.com, a free image and photos site. 
-  * Hero image on index.html was supplied by [Anastase Maragos](https://unsplash.com/photos/HyvE5SiKMUs)
-  * Background cover image on index.html was supplied by [Hayley Kim Design](https://unsplash.com/photos/eot-ka5dM7Q)<br>
-  * Background image on contact.html was supplied by [John Arano](https://unsplash.com/photos/h4i9G-de7Po)<br>
-  * Backround image on pricing.html was supplied by [Victor Freitas](https://unsplash.com/photos/hOuJYX2K5DA)<br>
+  * The photos used as background image for the game was downloaded from Abed Isamil who is a contributor to [Unsplash](https://www.unsplash.com), a free image and photos site.<br>
+  * You can download Abed´s photos [Here](https://unsplash.com/@abedismail)
+  * The card images and back face image was provided by [Formula 1](https://www.formula1.com)
 
 # Acknowledgements
- * I would like to thank my mentor Daisy McGirr for her guidance, patience and support throughout my project. 
- * I would like  to thank my fellow student Matt Bodden for helping me with some issue encountered with some of my code. 
+ * I would like to thank my mentor Daisy McGirr for her guidance and support throughout my project. 
+  
         
