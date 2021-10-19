@@ -10,7 +10,6 @@
     * [Typography](#Typography)
     * [Imagery](#Imagery)
     * [Wireframes](#Wireframes)
-  * [Limitations](#Limitations)
   * [Features](#Features)
   * [Features Left to Implement](#Features-Left-to-Implement)
 * [Technologies](#Technologies)
@@ -45,9 +44,9 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
 
 ### User Stories
   * The user will se a popup with information on how to play the game. 
-  * The user will be able to choose on of three levels  of difficulty before the game starts.
+  * The user will be able to choose one of three levels  of difficulty before the game starts.
   * The user should see the current time elapsed and moves while playing the game.
-  * The user should see an image of the Yas marina formula 1 circuit of Abu Dhabi United Arab Emirates.
+  * The user should see an background image of the Yas marina formula 1 circuit of Abu Dhabi United Arab Emirates during and after game.
 
   * The user should be able to click any of the cards which are facing down to flip it over and try to find the matching pairs.
   * The user should be able to find pairs by clicking on the cards. If the match, they stay flipped, if they don't match they will flip back.
@@ -147,22 +146,13 @@ For full Size PDF´s of wireframes click links below.<br>
    * tecnisih.com Multi Device Website Mockup Generator was used to create the Mockup image in this README.md
     ---
 ##  Testing
----
+
 ### Test Strategy
 #### Summary
 
   * Testing is required on Milestone Project 2 – Formula 1 - the Memory Game.
 
   * As this project is static and contains no back-end functionality, the testing performed will be on the visual effects and layout of the Website. Testing to be done on at least three    web browsers and all screen sizes.
-
-  * No elements should overlap another container div. All elements should remain on the screen at all sizes above 300px. 
-
-  * All nav links should direct to the correct html pages as per their names. The Home page is the exception, this one will redirect to index.html.
-
-  * All links to external websites must open in a new browser.
-
-  * Testing of form validation will also be required to ensure the correct inputs are taken and that all fields are required.
-
   * Validation of inclusion for all features included in the Structure of the Website / Wireframes must be performed.
 
   * The live Project can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
@@ -176,9 +166,9 @@ For full Size PDF´s of wireframes click links below.<br>
    ![W3C CSS Validator](docs/validator_w3/style_css_validator.png)<br>
 
 
-   ### Issues and Resolutions to issues found during testing
+   # Issues and Resolutions to issues found during testing
 # Deployment
----
+
 ### Project Creation <br>
   * The project was started by me navigating GitHub.com and then i clicked on my repositories. I then clicked on botton for [new repository.](https://github.com/new) <br>
      * After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (f1-the-memory-game). <br>
@@ -196,12 +186,11 @@ For full Size PDF´s of wireframes click links below.<br>
         * Select 'Master Branch' as the source.
           * Click the Save button.
             * Click on the link to go to the live deployed page.
-  ---
+  
   # Credits
-  ---
+  
   ### Code 
- 
- * Code used to create timer was taken from w3school.
+   * Code used to create timer was taken from w3school.
   ### Content
   * The content of this software was created by Ivan Ulysses based on research done troughout the duration of this course.<br>
 
