@@ -4,6 +4,7 @@
 * [User Experience Design (UX)](#User-Experience-Design)
  * [User stories](#User-stories)
   * [External users goal](#External-users-goal])
+   * [Site owner's goal](#Site-owner's-gaol)
   * [Structure](#Structure)
   * [Design](#Design)
     * [Colour Scheme](#Colour-Scheme)
@@ -53,7 +54,13 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
   * The user should not be able to click on a new card until the two already flipped cards which are not matching and not flipped back.
   * The user should be receiving a message at completion of game.
 
+### External users goal
+ * Have fun playing the game.
+ * Give the short time memory a workout while having fun.
 
+ ### Site owner's goal
+ * Have fun playing the game.
+ * Give the short time memory a workout while having fun. 
 
 #### Structure 
 
