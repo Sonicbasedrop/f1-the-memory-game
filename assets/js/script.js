@@ -45,8 +45,7 @@
     let newArray = array.slice();
     // trim array as needed
     while (newArray.length > pairs) {
-      let randomIndex = Math.floor(Math.random() *
-        newArray.length);
+      let randomIndex = Math.floor(Math.random() * newArray.length);
       newArray.splice(randomIndex, 1);
     }
     return newArray;
@@ -149,7 +148,7 @@
 
   const hideCards = () => {
     // hide cards
-    setTimeout(function () {
+    setTimeout(function() {
       $(click1.id).removeClass("flipped");
       $(click2.id).removeClass("flipped");
       // reset click object
@@ -231,11 +230,11 @@
     $("#startModal").hide();
   });
 
-  $(".modal").click(function (event) {
+  $(".modal").click(function() {
     $(".modal").hide();
   });
 
-  $(".modal.content").click(function (event) {
+  $(".modal-content").click(function(event) {
     event.stopPropagation();
   });
 
@@ -266,6 +265,8 @@
     setLevel(level);
 
     // reset HTML
+    $("#game-board").empty();
+    
     $(".clock").text("0:00");
     $("#moves").text("0");
     $("#winModal").hide();
