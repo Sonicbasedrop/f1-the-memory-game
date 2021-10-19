@@ -126,7 +126,7 @@ For full Size PDF´s of wireframes click links below.<br>
 
  ### [Google Fonts ](https://fonts.google.com/)   
    *  Google fonts are used throughout the project to import the Montserrat and Poppins fonts.
-### [Gitpd](https://www.gitpod.io)
+### [Gitpod](https://www.gitpod.io)
    *  Gitpod is the Integrated Development Environment used to develop the Website.
 ### [Github](https://github.com/)
    * GithHub is the hosting site used to store the source code for the Website and [Git Pages](https://pages.github.com/) is used for the deployment of the live site.
@@ -136,6 +136,9 @@ For full Size PDF´s of wireframes click links below.<br>
   *  TinyJPG is used to reduce the file sizes of images before being deployed to reduce storage and bandwidth.
 ### [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
    * Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
+
+### [Timer](https://www.w3schools.com/howto/howto_js_countdown.asp) 
+ * Code used to create timer was taken from w3school
 ### [Balsamiq Wireframes](https://balsamiq.com/)
   *  This was used to create wireframes for 'The Skeleton Plane' stage of UX design.
 ### [Techsini](https://techsini.com/multi-mockup/index.php)
