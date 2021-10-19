@@ -47,7 +47,7 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
   * The user will se a popup with information on how to play the game. 
   * The user will be able to choose on of three levels  of difficulty before the game starts.
   * The user should see the current time elapsed and moves while playing the game.
-  * The user should see an image of the Yas marina formula 1 circuit of Abu Dhabi United Arab Emirates
+  * The user should see an image of the Yas marina formula 1 circuit of Abu Dhabi United Arab Emirates.
 
   * The user should be able to click any of the cards which are facing down to flip it over and try to find the matching pairs.
   * The user should be able to find pairs by clicking on the cards. If the match, they stay flipped, if they don't match they will flip back.
@@ -58,9 +58,9 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
 
 #### Structure 
 
-* Header will be vissible at all times, during and after game.
+* The game header will be vissible at all times, during and after game. The header is the name of the game (Formula 1 the Memory Game)
 
-* Background image will be vissable at all times, during and after game.
+* Background image will be vissable at all times, during and after game. The images is the Yas marina formula 1 circuit of Abu Dhabi United Arab Emirates.
 
 * The start page will include a pop-up with explanation on how to play the game, and three buttons to choose difficulty level of game.
 
@@ -69,7 +69,9 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
 
 * All pages will be responsive and the layouts will change dependent on screen size. This is to ensure content flow is appealing, images are displayed properly and that the content is not shrunk side by side, so small that it is unreadable. The purpose of this is to fulfill user story:
 
-* All pages will contain a Footer section with time elapsed and amout of moves made by the user. The aim of the Footer elements is to fulfill user stories:
+* All pages will contain a Footer section with time elapsed and amout of moves made by the user. The aim of the Footer elements is to fulfill user stories.
+
+* How to play the game: you complete the game by matching all driver pairs. You do that by clicking on the cards. If they match they stay flipped, if they don´t match they will flipp back to the start position were you will see the back of the card. The "back face" of the card is the Formula 1 logo.
 
 
 ### Design
