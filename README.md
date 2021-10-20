@@ -78,7 +78,6 @@ A live version of game can be found [here](https://sonicbasedrop.github.io/f1-th
 * HOW TO PLAY THIS GAME: you complete the game by matching the cards. You do that by clicking on the cards. If they match they stay flipped, if they don't match they will flipp back 
 to the starting position.
 ### Design
----
 
 #### Colour Scheme
 The main colours used are shade of Red rgb(248, 94, 94) Two shade of Blue rgba(39, 109, 189, 0.5), #2d56bd,shade of gray #555, shade of orange #fda40d and White #fff. 
@@ -183,37 +182,34 @@ For full Size PDF´s of wireframes click links below.<br>
          EXPECTED RESULT: Game cards stays flipped and card images are visble until player has found all matching pairs and the game is won.<br>
          RESULT: Game cards stays flipped and card images are visble until player has found all matching pairs and the game is won.<br>
 
-  * step 9: Check time elapsed and moves counter while game is ongoing (time should change every second, moves counter should indicate 1 move per 2 clicks on game cards<br>
+ * step 9: Check time elapsed and moves counter while game is ongoing (time should change every second, moves counter should indicate 1 move per 2 clicks on game cards<br>
      EXPECTED RESULT: Time elapsed changes every second and moves counter indicate 1 move per 2 clicks on game cards <br>
      RESULT: Time elapsed changes every second and moves counter indicate 1 move per 2 clicks on game cards<br>
 
-  * step 10: When player has found all pairs and the game is won, a pop-up with a message to player should appear. The player should also see the time it took to solve the game. 
+ * step 10: When player has found all pairs and the game is won, a pop-up with a message to player should appear. The player should also see the time it took to solve the game. 
      There should also be a restart button, when button is clicked the start pop-up should appear and the player have the opption the choose the same or any other level to play<br>
      EXPECTED RESULT: When player has found all pairs and the game is won, a pop-up with a message to player shoulsd appear. The player should also see time it took to solve the game. There should also be a restart button, when button is clicked the start pop-up should appear and the player have the opption the choose the same or any other level to play<br> 
      RESULT: The pop-up appears with the time it took to solve the game, the restart button appears and when clicked it sends the player back to the start page were the player can choose the same or any other level to play<br>
 
+* step 11: Test responsiveness of game on all screen sizes.<b
+       EXPECTED RESULT: Game should be responsive on all screen sizes.<br>
+       RESULT: Game is responsive on all screen sizes.<br>
 
-  
-
-#### Summary
-
-  * Testing is required on Milestone Project 2 – Formula 1 - the Memory Game.
-
-  * As this project is static and contains no back-end functionality, the testing performed will be on the visual effects and layout of the Website. Testing to be done on at least three    web browsers and all screen sizes.
-  * Validation of inclusion for all features included in the Structure of the Website / Wireframes must be performed.
-
-  * The live Project can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
-
-#### Test Results
+ * The live Project can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
 
 
-   * All Pages were run through the [W3C HTML Validator](https://validator.w3.org/nu/#textarea) Validator and showed no errors.<br>
-   ![W3C HTML Validator](docs/validator_w3/index_html_validator.png) <br> 
-   * CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) and showed no errors.<br>
-   ![W3C CSS Validator](docs/validator_w3/style_css_validator.png)<br>
+* All Pages were run through the [W3C HTML Validator](https://validator.w3.org/nu/#textarea) Validator and showed no errors.<br>
+![W3C HTML Validator](docs/validator_w3/index_html_validator.png) <br> 
+* CSS Stylesheet was run through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) and showed no errors.<br>
+![W3C CSS Validator](docs/validator_w3/style_css_validator.png)<br>
+
+* Performance test was conducted in Chrome developer tools<br>
+ * Lighthouse Desktop report:<br>
+![Lighthouse desktop report](assets/images/lighthouse_desktop_report.png)<br>
+ * Lighthouse Mobile report:<br>
+![Lighthouse mobile report](assets/images/lighthouse_mobile_report.png)<br>
 
 
-   # Issues and Resolutions to issues found during testing
 # Deployment
 
 ### Project Creation <br>
