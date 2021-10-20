@@ -1,3 +1,4 @@
+// defines that JavaScript code should be executed in "strict mode".
 (() => {
   "use strict";
 
