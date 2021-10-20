@@ -222,11 +222,11 @@
     $("#winModal").show();
   });
 
-  // close modals when player click outside modal
+  // close modals when player click on restart button
   $("#winModal #close-win, #overlay").click(function() {
     $("#winModal").hide();
   });
-
+    // close modals when player click on one of the three levels button
   $("#startModal #close-start, #overlay").click(function() {
     $("#startModal").hide();
   });
