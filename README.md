@@ -15,8 +15,6 @@
   * [Features Left to Implement](#Features-Left-to-Implement)
 * [Technologies](#Technologies)
 * [Testing](#Testing)
-  * [Summary](#Summary)
-  * [High Level Test Cases](#High-Level-Test-Cases)
   *  [Out of Scope](#Out-of-Scope)
   * [Test Result](#Test-Results)
   * [Deployment](#Deployment)
