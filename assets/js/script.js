@@ -51,7 +51,7 @@
     }
     return newArray;
   };
-
+    // display array from data.js to cards
   const makeCardArray = (data, level) => {
     let array = [];
 
