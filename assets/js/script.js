@@ -234,7 +234,7 @@
   $(".modal").click(function() {
     $(".modal").hide();
   });
-
+    // prevents further propagation of the current event
   $(".modal-content").click(function(event) {
     event.stopPropagation();
   });
