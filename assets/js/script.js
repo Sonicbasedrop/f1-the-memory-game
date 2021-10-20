@@ -132,7 +132,7 @@
       hideCards();
     }
   };
-
+    // check if all card paris are found
   const foundMatch = () => {
     matches++;
     if (matches === pairs) {
