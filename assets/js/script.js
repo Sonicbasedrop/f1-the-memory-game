@@ -67,7 +67,7 @@
 
     return array;
   };
-
+    // constant shuffle of the array
   const shuffle = array => {
     let currentIndex = array.length,
       temporaryValue,
