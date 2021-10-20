@@ -137,8 +137,13 @@ For full Size PDF´s of wireframes click links below.<br>
    * GithHub is the hosting site used to store the source code for the Website and [Git Pages](https://pages.github.com/) is used for the deployment of the live site.
 #### [Git](https://git-scm.com/)
   *  Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
-### [TinyJPG](https://tinypng.com/)
+#### [TinyJPG](https://tinypng.com/)
   *  TinyJPG is used to reduce the file sizes of images before being deployed to reduce storage and bandwidth.
+
+#### [Png2jpg](https://png2jpg.com/) 
+  * Png2jpg is used to change the format of an image from Png to jpg
+#### [Squoosh](https://squoosh.app/)
+  * Squoosh is used to reduce the file sizes of images before being deployed to reduce storage and bandwidth.
 #### [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
    * Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
 
