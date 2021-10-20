@@ -217,26 +217,28 @@ For full Size PDF´s of wireframes click links below.<br>
 
 ### Project Creation <br>
   * The project was started by me navigating GitHub.com and then i clicked on my repositories. I then clicked on botton for [new repository.](https://github.com/new) <br>
-     * After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (f1-the-memory-game). <br>
-       * Thereafter I gave the website a description (A JavaScript memory game for my Milestone 2 project). I then checked ‘Public’-botton. I added the README.md file and .gitignore. 
-         * Opening a the terminal in Gitpod, I then added my asset folders, CSS folder Images folder Js folder etc etc. The following commands were used throughout the project:
-    	   * git add filename - This command was used to add files to the staging area before committing.
-             * git commit -m commit message explaining the updates - This command was used to commit changes to the local repository.
-               * git push - This command is used to push all committed changes to the GitHub repository.
+  * After that I clicked on the drop-down menu and clicked on [Code-Institute-Org/gitpod-full-template.](https://github.com/Sonicbasedrop/GitPod-full-template#readme) I then gave my repository a name (f1-the-memory-game). <br>
+  * Thereafter I gave the website a description (A JavaScript memory game for my Milestone 2 project). I then checked ‘Public’-botton. I added the README.md file and .gitignore. 
+  * Opening a the terminal in Gitpod, I then added my asset folders, CSS folder Images folder Js folder etc etc. The following commands were used throughout the project:
+  * git add filename - This command was used to add files to the staging area before committing.
+  * git commit -m commit message explaining the updates - This command was used to commit changes to the local repository.
+  * git push - This command is used to push all committed changes to the GitHub repository.
 
 ## Using Github Pages <br>
-* Navigate to the [GitHub Repository:](https://sonicbasedrop.github.io/f1-the-memory-game/)
-  * Click my current repository. 
-    * Click on the 'Settings' Tab.
-      * Click on the Git Hub Pages Heading.
-        * Select 'Master Branch' as the source.
-          * Click the Save button.
-            * Click on the link to go to the live deployed page.
+* 1. Navigate to the [GitHub Repository:](https://sonicbasedrop.github.io/f1-the-memory-game/)
+* 2. Click my current repository. 
+* 3. Click on the 'Settings' Tab.
+* 4. Click on the Git Hub Pages Heading.
+* 5. Select 'Master Branch' as the source.
+* 6. Click the Save button.
+* 7. Click on the link to go to the live deployed page.
 # Credits
 ### Code 
    * Code used to create timer was taken from w3school.
+   
+
 ### Content
-  * The content of this software was created by Ivan Ulysses based on research done troughout the duration of this course, and inspa<br>
+  * The content of this software was created by Ivan Ulysses based on research done troughout the duration of this course,  and discussions held with felloow students at Code Institute. <br>
 
   ### Media
   * The photos used as background image for the game was downloaded from Abed Isamil who is a contributor to [Unsplash](https://www.unsplash.com), a free image and photos site.<br>
@@ -245,5 +247,6 @@ For full Size PDF´s of wireframes click links below.<br>
 
 # Acknowledgements
  * I would like to thank my mentor Daisy McGirr for her guidance and support throughout my project. 
+ * * I would like to thank some of my fellow students for help with some issues i encountered while coding, you know how you are, thank you all.
   
         
