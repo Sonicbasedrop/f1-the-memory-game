@@ -15,7 +15,8 @@
   * [Features Left to Implement](#Features-Left-to-Implement)
 * [Technologies](#Technologies)
 * [Testing](#Testing)
-  * [Deployment](#Deployment)
+* [Note](#Note)
+* [Deployment](#Deployment)
 * [Credits](#Credits)
 * [Acknowledgements](#Acknowledgements)
 
@@ -192,9 +193,9 @@ For full Size PDF´s of wireframes click links below.<br>
      EXPECTED RESULT: When player has found all pairs and the game is won, a pop-up with a message to player shoulsd appear. The player should also see time it took to solve the game. There should also be a restart button, when button is clicked the start pop-up should appear and the player have the opption the choose the same or any other level to play<br> 
      RESULT: The pop-up appears with the time it took to solve the game, the restart button appears and when clicked it sends the player back to the start page were the player can choose the same or any other level to play<br>
 
-* step 11: Test responsiveness of game on all screen sizes.<b
-       EXPECTED RESULT: Game should be responsive on all screen sizes.<br>
-       RESULT: Game is responsive on all screen sizes.<br>
+* step 11: The game was tested across different browsers and screen sizes to make sure responsiveness and browser compatibility on: Google Chrome, Safari, Firefox, Intenet Explorer, iPhone 8 <br>
+       EXPECTED RESULT: Game should be responsive and compatibility across the differnt browser tested and screen sizes down to 300px.<br>
+       RESULT: Game is responsive across the differnt browser tested and screen sizes down to 300px.<br>
 
  * The live Project can be found [here](https://sonicbasedrop.github.io/f1-the-memory-game/)
 
@@ -210,7 +211,8 @@ For full Size PDF´s of wireframes click links below.<br>
  * Lighthouse Mobile report:<br>
 ![Lighthouse mobile report](assets/images/lighthouse_mobile_report.png)<br>
 
-
+## Note
+* Due to the characteristic of the game, i was forced to right the alt text for all the images with a generic wording (Grand Prix Racing drivers images).
 # Deployment
 
 ### Project Creation <br>
@@ -230,13 +232,11 @@ For full Size PDF´s of wireframes click links below.<br>
         * Select 'Master Branch' as the source.
           * Click the Save button.
             * Click on the link to go to the live deployed page.
-  
-  # Credits
-  
-  ### Code 
+# Credits
+### Code 
    * Code used to create timer was taken from w3school.
-  ### Content
-  * The content of this software was created by Ivan Ulysses based on research done troughout the duration of this course.<br>
+### Content
+  * The content of this software was created by Ivan Ulysses based on research done troughout the duration of this course, and inspa<br>
 
   ### Media
   * The photos used as background image for the game was downloaded from Abed Isamil who is a contributor to [Unsplash](https://www.unsplash.com), a free image and photos site.<br>
