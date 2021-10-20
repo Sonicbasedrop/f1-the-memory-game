@@ -510,4 +510,10 @@ button:hover {
   .info {
     font-size: 28px;
   }
+  .board {
+    display: flex;
+    margin: auto;
+    max-width: 1110px;
+    flex-wrap: wrap;
+  }
 }
