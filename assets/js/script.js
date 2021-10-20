@@ -86,7 +86,7 @@
     }
     return array;
   };
-
+      // loop objects in array to create element
   const displayCards = cardArray => {
     cardArray.forEach(function (card) {
 
